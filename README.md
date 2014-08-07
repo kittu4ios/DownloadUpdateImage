@@ -7,4 +7,6 @@ download image from server if image is modiifed in server.
 
 2) Replace UIImageView+AFNetworking.h and UIImageView+AFNetworking.m files
 
+3) #define kUserDefaults [NSUserDefaults standardUserDefaults]
+
 check now..happy coding...:-)
